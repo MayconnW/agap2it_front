@@ -18,28 +18,18 @@ const Global = createGlobalStyle`
     font-family: "Montserrat", sans-serif;
     line-height: 1.5;
     font-weight: normal;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    .ReactModalPortal {
-      z-index: 10;
-    }
   }
 
   html {
-    display: flex;
     width: 100%;
     flex-direction: column;
   }
 
   #root {
-    display: flex;
-    flex-direction: column;
   }
 
   html, body, #root {
-    min-height: 100%;
-    flex: 1;
+    min-height: 100vh;
   }
 `;
 
