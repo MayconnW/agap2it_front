@@ -1,5 +1,6 @@
 import { combineReducers } from "redux";
+import map from "./map/reducer";
 
-const rootReducers = combineReducers({});
+const rootReducers = combineReducers({ map });
 
 export default rootReducers;

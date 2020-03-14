@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Color from "color";
 
 export const Container = styled.div`
   display: flex;
@@ -6,11 +7,18 @@ export const Container = styled.div`
   align-items: center;
   > h3 {
     align-self: flex-start;
-    color: #e6e6e6;
+    color: ${`${Color("#e6e6e6")
+      .darken(0.2)
+      .hex()}`};
     font-size: 3.5rem;
     margin-left: 25px;
     text-transform: uppercase;
     font-weight: bold;
+  }
+  @media only screen and (max-width: 860px) {
+    > h3 {
+      font-size: 2rem;
+    }
   }
 `;
 
