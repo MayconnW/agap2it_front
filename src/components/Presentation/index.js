@@ -32,7 +32,7 @@ export default function Presentation() {
             </p>
           </div>
         </Description>
-        <MoreContentContainer href="#links">
+        <MoreContentContainer href="#badges">
           <img src={ArrowDown} alt="Arrow Down" />
           <img src={ArrowDown} alt="Arrow Down" />
           <img src={ArrowDown} alt="Arrow Down" />

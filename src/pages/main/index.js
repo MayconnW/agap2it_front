@@ -2,37 +2,13 @@ import React from "react";
 
 // import { Container } from './styles';
 import Presentation from "components/Presentation";
+import Badges from "components/Badges";
 
 export default function main() {
   return (
     <>
       <Presentation />
-      <div id="links">
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-        <h1>OlaMundo</h1>
-      </div>
+      <Badges id="badges" />
     </>
   );
 }
