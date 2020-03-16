@@ -36,9 +36,11 @@ After you make sure you have NodeJs on your computer:
 
 ## Demo
 
-You can see the website running here.
+You can see the website running here -> https://agap2it-front.herokuapp.com
 
 This Website is deployed on Heroku. So when you access the page first time, maybe the server will be sleeping, and it can take some seconds to wake up. 
+
+As a free Heroku account, the background video at the beginning of this site, it can take a little bit longer to load too.
 
 
 ## Future
