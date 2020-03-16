@@ -6,6 +6,12 @@ import DefaultMap from "./Map";
 export const Container = styled.div`
   background-color: #383838;
   display: flex;
+  flex-direction: column;
+`;
+
+export const Content = styled.div`
+  display: flex;
+  width: 100%;
   justify-content: space-between;
   @media only screen and (max-width: 1060px) {
     flex-direction: column;
@@ -198,5 +204,14 @@ export const City = styled.h4`
 export const List = styled.ul`
   li {
     color: "#dada55";
+  }
+`;
+
+export const SubTitle = styled.h3`
+  color: #fff;
+  font-size: 1.8rem;
+  margin-left: 40px;
+  strong {
+    color: #ffcd00;
   }
 `;
