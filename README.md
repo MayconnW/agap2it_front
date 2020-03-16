@@ -13,9 +13,9 @@ So let's start
 Please first, make sure you have the NodeJs installed in your pc and I recommend you to install the "yarn" too. You can use "npm" instead and will work, but still, I recommend "yarn".
 Make sure you have the backend of this website running.
 
-NodeJs -> https://github.com/nvm-sh/nvm#installing-and-updating
-Yarn -> https://classic.yarnpkg.com/en/docs/install
-Backend -> https://github.com/MayconnW/agap2it_back
+#### NodeJs -> https://github.com/nvm-sh/nvm#installing-and-updating
+#### Yarn -> https://classic.yarnpkg.com/en/docs/install
+#### Backend -> https://github.com/MayconnW/agap2it_back
 
 
 ## Installation
