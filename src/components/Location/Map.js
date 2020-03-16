@@ -35,7 +35,7 @@ const Country = styled.g`
       }
     }
     .inner-circle {
-      animation: grow 400ms ease infinite alternate;
+      animation: op 400ms ease infinite alternate;
     }
     text {
       fill: #ffcd00;
@@ -55,7 +55,7 @@ const Country = styled.g`
         fill: #ffcd00;
       }
     `}
-  @keyframes grow {
+  @keyframes op {
     0% {
       opacity: 1;
     }
