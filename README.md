@@ -4,6 +4,7 @@ This awesome Frontend was built with React.
 
 ## Short Presentation
  This WebSite was made 100% based on agap2-it.pt. This is just a lit bit about what it can be. I had just two days to made it, so I had to choose some parts of the original site to reproduce. And this is the result. 
+
 To be honest, my biggest challenge was the map. To put all those points in place and customize that animation, that was hard. But I'm proud of the work. 
 
 ## Dependencies
