@@ -70,22 +70,23 @@ export default function Location() {
           </MapContainer>
         </LeftContainer>
         <RightContainer>
-          <h3>Visão</h3>
+          <h3>Loren</h3>
           <p>
-            Criar, desenvolver e potenciar a tecnologia como parte integrante da
-            nossa vida através do nosso compromisso em sermos reconhecidos como
-            uma empresa de líderes e de inovadores.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip.
           </p>
           <p>
-            O nosso objetivo é criar valor aos que interagem com a nossa
-            organização.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            ullamco laboris.
           </p>
         </RightContainer>
       </Content>
       <Content>
         <SubTitle>
-          ESPÍRITO <strong>#AGAPIANO</strong>, todas as famílias têm uma
-          história...
+          Lorem <strong>#IPSUM</strong>, consectetur adipiscing elit, sed do
+          ullamco ...
         </SubTitle>
       </Content>
     </Container>

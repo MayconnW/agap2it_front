@@ -15,20 +15,20 @@ export default function Presentation() {
     <Container>
       <Content>
         <h1>
-          Think <i>2</i>morrow
+          Lorem <i>2</i>Ipsum
         </h1>
         <Description>
           <div>
             <p>
-              Fundada em Setembro de 2005, a agap2IT é uma organização europeia
-              na área dos Sistemas de Informação, Ciência e Tecnologia.
-              Empenhada na inovação, a agap2IT está orientada para a criação de
-              um verdadeiro valor para os seus Clientes e Consultores.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+              enim ad minim veniam, quis nostrud exercitation ullamco laboris
+              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.
             </p>
             <p>
-              A capacidade de intervir globalmente aliada à elevada experiência
-              e know-how técnico, funcional e de negócio da equipa, garantem a
-              excelência da resposta aos mais exigentes e complexos desafios.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+              enim ad minim veniam, quis nostrud exercitation ullamco laboris.
             </p>
           </div>
         </Description>
